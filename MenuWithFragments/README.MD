@@ -5,6 +5,4 @@ It is also possible to click a button on a fragment to navigate to another fragm
 It uses view binding.
 
 
-<img src="images/001.png" width="200">
-<img src="images/002.png" width="200">
-<img src="images/003.png" width="200">
+<img src="images/001.png" width="200"/><img src="images/002.png" width="200"/><img src="images/003.png" width="200"/>
