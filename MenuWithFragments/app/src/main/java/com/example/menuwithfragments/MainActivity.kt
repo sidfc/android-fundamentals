@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
-        val fragment = findViewById<View>(R.id.main_fragment) // it's not bound since fragment it's not a View ;(
+        val fragment = findViewById<View>(R.id.main_fragment) // it's not bound since fragment is not a View ;(
         binding.menuBottom.setupWithNavController(fragment.findNavController())
     }
 }
