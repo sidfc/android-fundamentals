@@ -10,7 +10,7 @@ import androidx.navigation.ui.setupWithNavController
 import com.example.menuwithfragments.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-
+    // https://developer.android.com/topic/libraries/view-binding
     private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
